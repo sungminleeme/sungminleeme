@@ -18,7 +18,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdlas2412)](https://github.com/tjdlas2412/github-readme-stats)
   
-  About Me👨‍💻
+  <p>About Me👨‍💻</p>
 <a href="https://velog.io/@tjdlas2412"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   
 </div>
