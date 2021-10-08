@@ -12,7 +12,10 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
  
   <p>My stats😁</p> 
+  
 ![tjdlas2412 GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdlas2412&show_icons=true)
+  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdlas2412)](https://github.com/tjdlas2412/github-readme-stats)
   
   About Me👨‍💻
