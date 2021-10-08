@@ -1,5 +1,5 @@
 <div align='center'>
-### ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=SungminLee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=SungminLee&fontSize=90)
 
 
 <!--
