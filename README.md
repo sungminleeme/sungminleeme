@@ -13,9 +13,9 @@
  
   <p>My stats😁</p> 
 ![tjdlas2412 GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdlas2412&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdlas2412)](https://github.com/tjdlas2412/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdlas2412)](https://github.com/tjdlas2412/github-readme-stats)
   
-  About M👨‍💻
+  About Me👨‍💻
 <a href="https://velog.io/@tjdlas2412"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   
 </div>
