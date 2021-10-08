@@ -2,9 +2,9 @@
   
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=SungminLee&fontSize=90)
-
+🇰🇷 🇦🇺 🇸🇬
   <p>Welcome👋</p>
-  <span>Technology Stack📚</span>
+  <p>🛠Technology Stack�🛠</p>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
