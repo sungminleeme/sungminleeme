@@ -2,7 +2,7 @@
   
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=SungminLee&fontSize=90)
-🇰🇷(Native)🇯🇵(Conversational)
+  🇰🇷(Native)🇯🇵(Conversational)
   <p>Welcome👋</p>
   <p>🛠Technology Stack🛠</p>
 
