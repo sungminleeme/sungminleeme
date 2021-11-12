@@ -21,13 +21,17 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungminleeme)](https://github.com/sungminleeme/github-readme-stats)</br>
   
+  <h3> contact 👨‍💻</h3>
+    
+<a href="https://velog.io/@tjdlas2412"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a></br>
+  
+  
+  
  <h3> 1 day 1 commit 🌱</h3>
      
   [![commitcombo](http://commitcombo.com/theme?user=sungminleeme&theme=Grass&v=2)](https://github.com/devxb/CommitCombo)
   
-  <h3> contact 👨‍💻</h3>
-    
-<a href="https://velog.io/@tjdlas2412"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  
   
     
 
