@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=SungminLee&fontSize=90)
   🇰🇷(Native)🇯🇵(Conversational)
-  <p>Welcome👋</p>
+  <h2>Welcome👋</<h2>
   <p>🛠Technology Stack🛠</p>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -24,6 +24,7 @@
   <p>About Me👨‍💻</p>
 <a href="https://velog.io/@tjdlas2412"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   
+   1Day 1Commit 
   [![commitcombo](http://commitcombo.com/theme?user=sungminleeme&theme=DeepOcean&v=1)](https://github.com/devxb/CommitCombo)
 
 </div>
