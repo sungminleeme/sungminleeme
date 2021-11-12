@@ -23,4 +23,7 @@
   
   <p>About Me👨‍💻</p>
 <a href="https://velog.io/@tjdlas2412"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  
+  [![commitcombo](http://commitcombo.com/theme?user=sungminleeme&theme=DeepOcean&v=1)](https://github.com/devxb/CommitCombo)
+
 </div>
