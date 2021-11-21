@@ -23,7 +23,7 @@
   
   <h3> contact 👨‍💻</h3>
     
-<a href="https://alzm2412.tistory.com"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a></br>
+[![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat&logo=Bloglovin&link=https://alzm2412.tistory.com/)](https://alzm2412.tistory.com/)
   
   
   
